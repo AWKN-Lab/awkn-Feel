@@ -2,7 +2,7 @@
 name: awkn-爽点压缩器 (High-Point Compressor)
 version: v1.2.0
 author: "AWKN / 剑锋传奇 (Jianfeng Chuanqi)"
-description: "把小说、短剧、漫画压缩成"高爽点消费版"。支持3秒钩子、30秒剧情入口、1分钟/3分钟高能版、结局速通、角色关系图、高能片段索引。 Compress novels, short dramas, and comics into high-engagement highlight reels. Supports 3-second hooks, 30-second plot intros, 1-min / 3-min highlight versions, ending rushes, character relationship maps, and high-point indexes."
+description: "把小说、短剧、漫画压缩成「高爽点消费版」。支持3秒钩子、30秒剧情入口、1分钟/3分钟高能版、结局速通、角色关系图、高能片段索引。 Compress novels, short dramas, and comics into high-engagement highlight reels. Supports 3-second hooks, 30-second plot intros, 1-min / 3-min highlight versions, ending rushes, character relationship maps, and high-point indexes."
 aliases: ["爽点压缩器", "highlighter-compressor", "剧情爽点提取器", "短剧解说生成器", "high-point-compressor", "highlight-extractor"]
 ---
 
